@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-08-10 10:23:12
- * @LastEditTime: 2020-08-10 10:41:12
+ * @LastEditTime: 2020-08-10 11:27:38
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \learngit\readme.md
@@ -15,7 +15,8 @@
 使用命令git add <file>，注意，可反复多次使用，添加多个文件；
 使用命令git commit -m <message>，完成。
 
-##　更改
+
+## 更改
 
 要随时掌握工作区的状态，使用git status命令。
 
@@ -28,3 +29,14 @@ HEAD指向的版本就是当前版本，因此，Git允许我们在版本的历�
 穿梭前，用git log可以查看提交历史，以便确定要回退到哪个版本。
 
 要重返未来，用git reflog查看命令历史，以便确定要回到未来的哪个版本。
+
+
+## 初次安装
+
+git config --global user.name "lanch"       
+git config --global user.email "12157084@qq.com"
+
+## 初次push
+
+给电脑配置ssh公钥
+
