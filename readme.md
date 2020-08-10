@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-08-10 10:23:12
- * @LastEditTime: 2020-08-10 11:27:38
+ * @LastEditTime: 2020-08-10 12:06:30
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \learngit\readme.md
@@ -39,4 +39,22 @@ git config --global user.email "12157084@qq.com"
 ## 初次push
 
 给电脑配置ssh公钥
+
+## 分支
+
+Git鼓励大量使用分支：
+
+查看分支：git branch
+
+创建分支：git branch <name>
+
+切换分支：git checkout <name>或者git switch <name>
+
+创建+切换分支：git checkout -b <name>或者git switch -c <name>
+
+合并某分支到当前分支：git merge <name>
+
+删除分支：git branch -d <name>
+
+
 
