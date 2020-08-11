@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-08-10 10:23:12
- * @LastEditTime: 2020-08-11 09:49:14
+ * @LastEditTime: 2020-08-11 10:06:09
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \learngit\readme.md
@@ -70,6 +70,9 @@ Git鼓励大量使用分支：
 合并分支时，加上--no-ff参数就可以用普通模式合并，合并后的历史有分支，能看出来曾经做过合并，而fast forward合并就看不出来曾经做过合并。
 
 ### bug 分支
+
+hahahahhahahahahahah
+hjahjkfdhgjkdfhkjgdfhgjkhdfkjghdjk
 
 
 
